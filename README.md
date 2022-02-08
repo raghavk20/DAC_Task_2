@@ -1,4 +1,4 @@
-# DAC_Task_2
+# DAC_Task_2_Classification
 
 # Problem Statement
 
