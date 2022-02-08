@@ -2,7 +2,7 @@
 
 # Problem Statement
 
-This is the brief description of the dataset of the "heart.csv" and the "2015.csv" that tests the World Happiness Report and the Heart Problem to analyze the Classification and Regression Model and to predict the accuracy of the models 
+This is the brief description of the dataset of the "heart.csv" and the "2015.csv" that tests the World Happiness Report and the Heart Problem to analyze the Classification and Regression Model and to predict the accuracy of the models by importing the different packages available, graph visualization and performing the preprocessing function on the dataset and thus analyzed them clearly using the various functions in Pandas, Numpy and Matplotlib
 
 # Datasets
 
