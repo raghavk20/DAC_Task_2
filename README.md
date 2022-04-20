@@ -1,11 +1,5 @@
 # DAC_Task_2_Classification
 
-# Note: The coding part of the project was equally shared and contributed by all the 3 team members stated below
-
-- [ ] Venkataraman B (20BCE1499)
-- [ ] Rohit Madhavan S (20BCE1150)
-- [ ] Raghav K (20BCE1468)
-
 # Problem Statement
 
 - [ ] This is the brief description of the dataset of the "heart.csv" and the "2015.csv" 
